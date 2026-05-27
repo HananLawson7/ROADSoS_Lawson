@@ -72,7 +72,7 @@ When a user assumes the role of an active on-scene responder rather than a victi
  │    └── 📄 alertStore.js               <-- Central dispatch data state
  ├── 📄 package.json
  └── 📄 README.md
----
+```
 
 ## 🚀 Rapid Local Workspace Deployment
 
